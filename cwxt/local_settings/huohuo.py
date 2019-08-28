@@ -1,16 +1,16 @@
 import os
 
-database = "kjzd_oa_dev"
-host = "119.23.227.13"
-user = "crm_ikjzd_com"
-password = "Hcl321123....."
+database = ""
+host = ""
+user = ""
+password = ""
 port = 3306
 
 # 供应商系统测试地址
-supplier_host = 'http://112.74.170.16:8091'
+supplier_host = ''
 
 CACHES = {
-    'HOST': '192.168.0.31',
+    'HOST': '',
     'PORT': 6379,
     'PASSWORD': "",
 }
