@@ -1,0 +1,12 @@
+pip==19.0.3
+setuptools==33.1.1
+tornado==6.0.2
+urllib3==1.24.1
+requests==2.22.0
+ipython-genutils==0.2.0
+ipython==7.4.0
+tornado-mysql==0.5.1
+sqlalchemy==1.3.4
+pyyaml==5.1
+redis==2.10.6
+supervisor==4.0.3

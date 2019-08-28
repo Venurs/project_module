@@ -1,0 +1,4 @@
+vendor/
+*.log
+.idea/*.xml
+.idea/*.iml
